@@ -52,6 +52,8 @@ function App() {
   return (
     <div className="App">
       <div className="weather-app">
+        <h1 className="heading">Weather App</h1>
+
         <div className="city-search">
           <input
             type="text"
